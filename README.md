@@ -37,6 +37,9 @@ An E-Commerce website made using React, Redux ,and Spring Boot Framework
 <img width="1440" alt="Screenshot 2021-03-21 at 4 05 33 PM" src="https://user-images.githubusercontent.com/76442040/111901836-45f35300-8a60-11eb-99a0-9ecbe3d663da.png">
 
 
+## Register Page
+
+<img width="1440" alt="Screenshot 2021-03-21 at 3 15 13 PM" src="https://user-images.githubusercontent.com/76442040/111902333-11cd6180-8a63-11eb-9fe1-22507c0cbef2.png">
 
 
 ## Admin Page
