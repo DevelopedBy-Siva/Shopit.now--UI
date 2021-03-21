@@ -45,7 +45,7 @@
 }
 .product-main-container .full-image {
   width: 100%;
-  max-width: 550px;
+  max-width: 650px;
   height: 550px;
   overflow: hidden;
   margin: 0 20px;
@@ -56,7 +56,7 @@
 .product-main-container .full-image img {
   width: 100%;
   height: 100%;
-  object-fit: fill;
+  object-fit: cover;
 }
 .item-btn-container div {
   width: 180px;
