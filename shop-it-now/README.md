@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Shopit.now
+An E-Commerce website made using React, Redux ,and Spring Boot Framework
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## User Page
 
-## Available Scripts
 
-In the project directory, you can run:
+#### Home Page
 
-### `yarn start`
+<img width="1440" alt="Screenshot 2021-03-21 at 3 33 35 PM" src="https://user-images.githubusercontent.com/76442040/111901722-97e7a900-8a5f-11eb-81fd-56d1e4435fb6.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### Product Page
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<img width="1440" alt="Screenshot 2021-03-21 at 4 34 24 PM" src="https://user-images.githubusercontent.com/76442040/111902429-65d84600-8a63-11eb-9ba7-f3190685db5c.png">
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Product Search Page
 
-### `yarn build`
+<img width="1440" alt="Screenshot 2021-03-21 at 4 02 19 PM" src="https://user-images.githubusercontent.com/76442040/111901775-f44ac880-8a5f-11eb-9dc6-e8c6c8e43d92.png">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Register Page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img width="1440" alt="Screenshot 2021-03-21 at 4 03 21 PM" src="https://user-images.githubusercontent.com/76442040/111901848-59062300-8a60-11eb-99be-63e77ca4c94f.png">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Wishlist Page
 
-### `yarn eject`
+<img width="1440" alt="Screenshot 2021-03-21 at 4 04 30 PM" src="https://user-images.githubusercontent.com/76442040/111901796-19d7d200-8a60-11eb-8e34-b9840bce2eb1.png">
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### Cart Page
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img width="1440" alt="Screenshot 2021-03-21 at 4 05 06 PM" src="https://user-images.githubusercontent.com/76442040/111901811-28be8480-8a60-11eb-9678-6a21c0c79490.png">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Orders Page
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<img width="1440" alt="Screenshot 2021-03-21 at 4 04 00 PM" src="https://user-images.githubusercontent.com/76442040/111901825-396efa80-8a60-11eb-83c2-81179000c961.png">
 
-## Learn More
+#### Payment Page
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<img width="1440" alt="Screenshot 2021-03-21 at 4 05 33 PM" src="https://user-images.githubusercontent.com/76442040/111901836-45f35300-8a60-11eb-99a0-9ecbe3d663da.png">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Register Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<img width="1440" alt="Screenshot 2021-03-21 at 3 15 13 PM" src="https://user-images.githubusercontent.com/76442040/111902333-11cd6180-8a63-11eb-9fe1-22507c0cbef2.png">
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Admin Page
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#### Admin Dashboard
 
-### Advanced Configuration
+<img width="1440" alt="Screenshot 2021-03-21 at 3 30 09 PM" src="https://user-images.githubusercontent.com/76442040/111902018-404a3d00-8a61-11eb-85cc-cc8f558d43b6.png">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+#### Admin Advertisements 
 
-### Deployment
+<img width="1440" alt="Screenshot 2021-03-21 at 3 31 01 PM" src="https://user-images.githubusercontent.com/76442040/111902121-ccf4fb00-8a61-11eb-9b2c-0f27967f7f84.png">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+#### Admin Settings
 
-### `yarn build` fails to minify
+<img width="1440" alt="Screenshot 2021-03-21 at 3 31 41 PM" src="https://user-images.githubusercontent.com/76442040/111902132-d54d3600-8a61-11eb-88c0-d139cae2adba.png">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
