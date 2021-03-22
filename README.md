@@ -1,7 +1,7 @@
 # Shopit.now
 An E-Commerce website made using React, Redux ,and Spring Boot Framework
 
-####How to run ?
+How to run ?
 1. Download or clone the project.
 2. Open the project in any IDE.
 3. Run " npm i " .
