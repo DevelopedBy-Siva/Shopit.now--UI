@@ -37,7 +37,7 @@ class Login extends LoginMain {
                         <form onSubmit={handleSubmit}>
                             <InputContainer inputRef={this.userref} spellCheck="false" autoComplete='off' type='text' onBlur={()=>setFieldTouched('email')} onChange={handleChange('email')} errors={errors.email} touched={touched.email} style={{background:'none',maxWidth:'450px'}} name="email"/>
                             <InputContainer inputRef={this.passref} spellCheck="false" type='password' onBlur={()=>setFieldTouched('password')} onChange={handleChange('password')} errors={errors.password} touched={touched.password} style={{background:'none',maxWidth:'450px'}} name="password"/>
-                            <button ref={this.submitRef} type='submit'>LOGIN</button>
+                            <button disabled={loginBegan} ref={this.submitRef} type='submit'>LOGIN</button>
                             <Link className="dont-have-account" to="/register">Don't have an account?</Link>
                         </form>
                     )}

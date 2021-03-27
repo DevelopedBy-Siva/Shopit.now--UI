@@ -70,7 +70,7 @@ class Register extends RegisterMain {
                                     </div>
                                 </div>
                                 <InputContainer inputRef={this.confirmref} onBlur={() => setFieldTouched('confirm')} touched={touched.confirm} errors={errors.confirm} onChange={handleChange('confirm')} type='password' name="re-enter password" />
-                                <button ref={this.submitRef} type="submit" className="btn-container">Register</button>
+                                <button disabled={registrationBegin} ref={this.submitRef} type="submit" className="btn-container">Register</button>
                             </form>
                         )}
                     </Formik>
